@@ -1,0 +1,422 @@
+2025-07-30 00:50:43,690 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 00:50:43,715 - TradingSystem - INFO - === 开始交易周期 2025-07-30 00:50:43.715264 ===
+2025-07-30 00:50:45,722 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-30 00:50:45,723 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002D0DC51D550>
+2025-07-30 00:50:45,724 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002D0DC4FB470>, 91969.9128799)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002D0DC4FA8D0>, 91969.9504803), (<aiohttp.client_proto.ResponseHandler object at 0x000002D0DC4FAC90>, 91969.9623439)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002D0DC4FAAB0>, 91971.5589813)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002D0DC51D6A0>
+2025-07-30 01:52:08,120 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 01:52:08,130 - TradingSystem - INFO - === 开始交易周期 2025-07-30 01:52:08.130433 ===
+2025-07-30 01:52:08,633 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-30 01:52:08,646 - TradingSystem - INFO - 资产分析完成:
+2025-07-30 01:52:08,646 - TradingSystem - INFO - ETH - 综合评分: 65
+2025-07-30 01:52:08,646 - TradingSystem - INFO - AAPL - 综合评分: 60
+2025-07-30 01:52:08,646 - TradingSystem - INFO - SPY - 综合评分: 60
+2025-07-30 01:52:08,646 - TradingSystem - INFO - BTC - 综合评分: 57
+2025-07-30 01:52:08,646 - TradingSystem - INFO - XAU - 综合评分: 55
+2025-07-30 01:52:08,647 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-30 01:52:08,649 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-30 01:52:08,649 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002E1047AD550>
+2025-07-30 01:52:08,650 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002E104786B10>, 95654.2267004)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002E104786B70>, 95654.3831176), (<aiohttp.client_proto.ResponseHandler object at 0x000002E104786E70>, 95654.3948828)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002E1047873B0>, 95654.5053099)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002E1047AD6A0>
+2025-07-30 01:52:50,362 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 01:52:50,370 - TradingSystem - INFO - === 开始交易周期 2025-07-30 01:52:50.370666 ===
+2025-07-30 01:52:50,806 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-30 01:52:50,820 - TradingSystem - INFO - 资产分析完成:
+2025-07-30 01:52:50,820 - TradingSystem - INFO - ETH - 综合评分: 63
+2025-07-30 01:52:50,820 - TradingSystem - INFO - AAPL - 综合评分: 62
+2025-07-30 01:52:50,820 - TradingSystem - INFO - BTC - 综合评分: 58
+2025-07-30 01:52:50,820 - TradingSystem - INFO - XAU - 综合评分: 57
+2025-07-30 01:52:50,820 - TradingSystem - INFO - SPY - 综合评分: 57
+2025-07-30 01:52:50,820 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-30 01:52:50,823 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-30 01:52:50,824 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002372B0ED550>
+2025-07-30 01:52:50,825 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002372B0C72F0>, 95696.4586357)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002372B0C6AB0>, 95696.5637085), (<aiohttp.client_proto.ResponseHandler object at 0x000002372B0C6C90>, 95696.5662636)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002372B0C6E70>, 95696.6787331)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002372B0ED6A0>
+2025-07-30 23:28:52,954 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:28:52,974 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:28:52,974 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:28:52,980 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:28:52,981 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:28:52,981 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:28:52,982 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:28:52,982 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:28:52,983 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:28:52,983 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:28:52,983 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:28:52,983 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:31:46,457 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000028D402712B0>
+2025-07-30 23:32:06,545 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:32:06,553 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:32:06,553 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:32:06,557 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:32:06,558 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:32:06,558 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:32:06,560 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:32:06,560 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:32:06,560 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:32:06,561 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:32:06,561 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:32:06,561 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:33:17,857 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002C4339412B0>
+2025-07-30 23:33:27,117 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:33:27,124 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:33:27,124 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:33:27,127 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:33:27,127 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:33:27,128 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:33:27,129 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:33:27,129 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:33:27,129 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:33:27,130 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:33:27,130 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:33:27,130 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:40:43,270 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:40:43,278 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:40:43,278 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:40:43,285 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:40:43,285 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:40:43,286 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:40:43,287 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:40:43,288 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:40:43,288 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:40:43,288 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:40:43,289 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:40:43,289 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:41:08,929 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:41:08,937 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:41:08,937 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:41:08,944 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:41:08,945 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:41:08,945 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:41:08,947 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:41:08,947 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:41:08,948 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:41:08,948 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:41:08,948 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:41:08,949 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:46:28,711 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:46:28,719 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:46:28,719 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:46:28,723 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:46:28,723 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:46:28,724 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:46:28,725 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:46:28,725 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:46:28,725 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:46:28,726 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:46:28,726 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:46:28,726 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:48:27,130 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:03:27 CEST)" (scheduled at 2025-07-30 23:48:27.124066+02:00)
+2025-07-30 23:48:27,132 - TradingSystem - INFO - === 开始交易周期 2025-07-30 23:48:27.132757 ===
+2025-07-30 23:48:27,652 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-30 23:48:27,673 - TradingSystem - INFO - 资产分析完成:
+2025-07-30 23:48:27,673 - TradingSystem - INFO - BTC - 综合评分: 63
+2025-07-30 23:48:27,674 - TradingSystem - INFO - ETH - 综合评分: 62
+2025-07-30 23:48:27,674 - TradingSystem - INFO - AAPL - 综合评分: 61
+2025-07-30 23:48:27,674 - TradingSystem - INFO - SPY - 综合评分: 59
+2025-07-30 23:48:27,674 - TradingSystem - INFO - XAU - 综合评分: 57
+2025-07-30 23:48:27,675 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-30 23:48:27,679 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-30 23:48:27,679 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:03:27 CEST)" executed successfully
+2025-07-30 23:51:02,735 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:51:02,744 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:02,744 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:02,748 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:02,748 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:02,749 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:02,750 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:51:02,750 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:51:02,751 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:51:02,751 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:51:02,751 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:51:02,751 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:51:54,655 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:51:54,662 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:54,663 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:54,666 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:54,667 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:54,667 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:51:54,668 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:51:54,668 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:51:54,669 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:51:54,669 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:51:54,669 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:51:54,669 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-30 23:54:15,695 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-30 23:54:15,703 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:54:15,703 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:54:15,707 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:54:15,707 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:54:15,708 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 23:54:15,709 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-30 23:54:15,709 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-30 23:54:15,709 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-30 23:54:15,710 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-30 23:54:15,710 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-30 23:54:15,710 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 00:03:27,138 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:18:27 CEST)" (scheduled at 2025-07-31 00:03:27.124066+02:00)
+2025-07-31 00:03:27,138 - TradingSystem - INFO - === 开始交易周期 2025-07-31 00:03:27.138944 ===
+2025-07-31 00:03:27,640 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-31 00:03:27,656 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 00:03:27,656 - TradingSystem - INFO - ETH - 综合评分: 61
+2025-07-31 00:03:27,656 - TradingSystem - INFO - AAPL - 综合评分: 61
+2025-07-31 00:03:27,657 - TradingSystem - INFO - SPY - 综合评分: 61
+2025-07-31 00:03:27,657 - TradingSystem - INFO - BTC - 综合评分: 58
+2025-07-31 00:03:27,657 - TradingSystem - INFO - XAU - 综合评分: 58
+2025-07-31 00:03:27,657 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-31 00:03:27,660 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-31 00:03:27,661 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:18:27 CEST)" executed successfully
+2025-07-31 00:05:37,824 - TradingSystem - INFO - 系统已安全关闭
+2025-07-31 00:05:37,825 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-31 00:05:55,630 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 00:05:55,639 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:05:55,640 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:05:55,644 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:05:55,645 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:05:55,645 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:05:55,647 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-31 00:05:55,647 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-31 00:05:55,647 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-31 00:05:55,647 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-31 00:05:55,647 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-31 00:05:55,648 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 00:08:41,403 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000019B7DE512B0>
+2025-07-31 00:08:50,170 - TradingSystem - INFO - 系统已安全关闭
+2025-07-31 00:08:50,171 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-31 00:08:59,785 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 00:08:59,793 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:08:59,793 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:08:59,797 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:08:59,797 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:08:59,797 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 00:08:59,798 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-31 00:08:59,798 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-31 00:08:59,799 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-31 00:08:59,799 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-31 00:08:59,799 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-31 00:08:59,799 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 00:23:59,805 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:38:59 CEST)" (scheduled at 2025-07-31 00:23:59.793398+02:00)
+2025-07-31 00:23:59,807 - TradingSystem - INFO - === 开始交易周期 2025-07-31 00:23:59.807815 ===
+2025-07-31 00:24:00,246 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-31 00:24:00,268 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 00:24:00,269 - TradingSystem - INFO - ETH - 综合评分: 65
+2025-07-31 00:24:00,269 - TradingSystem - INFO - AAPL - 综合评分: 61
+2025-07-31 00:24:00,269 - TradingSystem - INFO - BTC - 综合评分: 60
+2025-07-31 00:24:00,270 - TradingSystem - INFO - SPY - 综合评分: 56
+2025-07-31 00:24:00,270 - TradingSystem - INFO - XAU - 综合评分: 55
+2025-07-31 00:24:00,270 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-31 00:24:00,275 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-31 00:24:00,276 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:38:59 CEST)" executed successfully
+2025-07-31 00:38:59,802 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:53:59 CEST)" (scheduled at 2025-07-31 00:38:59.793398+02:00)
+2025-07-31 00:38:59,803 - TradingSystem - INFO - === 开始交易周期 2025-07-31 00:38:59.803395 ===
+2025-07-31 00:39:02,074 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-31 00:39:02,092 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 00:39:02,092 - TradingSystem - INFO - ETH - 综合评分: 66
+2025-07-31 00:39:02,092 - TradingSystem - INFO - SPY - 综合评分: 62
+2025-07-31 00:39:02,092 - TradingSystem - INFO - AAPL - 综合评分: 61
+2025-07-31 00:39:02,092 - TradingSystem - INFO - BTC - 综合评分: 59
+2025-07-31 00:39:02,092 - TradingSystem - INFO - XAU - 综合评分: 58
+2025-07-31 00:39:02,092 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-31 00:39:02,096 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-31 00:39:02,096 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 00:53:59 CEST)" executed successfully
+2025-07-31 00:53:59,807 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 01:08:59 CEST)" (scheduled at 2025-07-31 00:53:59.793398+02:00)
+2025-07-31 00:53:59,808 - TradingSystem - INFO - === 开始交易周期 2025-07-31 00:53:59.808129 ===
+2025-07-31 00:54:00,212 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-31 00:54:00,226 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 00:54:00,227 - TradingSystem - INFO - BTC - 综合评分: 70
+2025-07-31 00:54:00,227 - TradingSystem - INFO - ETH - 综合评分: 66
+2025-07-31 00:54:00,227 - TradingSystem - INFO - SPY - 综合评分: 61
+2025-07-31 00:54:00,227 - TradingSystem - INFO - AAPL - 综合评分: 60
+2025-07-31 00:54:00,228 - TradingSystem - INFO - XAU - 综合评分: 55
+2025-07-31 00:54:00,228 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-31 00:54:00,231 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-31 00:54:00,231 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 01:08:59 CEST)" executed successfully
+2025-07-31 01:08:59,800 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 01:23:59 CEST)" (scheduled at 2025-07-31 01:08:59.793398+02:00)
+2025-07-31 01:08:59,801 - TradingSystem - INFO - === 开始交易周期 2025-07-31 01:08:59.801839 ===
+2025-07-31 01:08:59,802 - apscheduler.executors.default - INFO - Running job "TradingSystem.health_check (trigger: interval[1:00:00], next run at: 2025-07-31 02:08:59 CEST)" (scheduled at 2025-07-31 01:08:59.793898+02:00)
+2025-07-31 01:09:02,003 - TradingSystem - ERROR - Telegram通知失败: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2025-07-31 01:09:02,005 - apscheduler.executors.default - INFO - Job "TradingSystem.health_check (trigger: interval[1:00:00], next run at: 2025-07-31 02:08:59 CEST)" executed successfully
+2025-07-31 01:09:02,409 - TradingSystem - INFO - 获取到 5 个资产的数据
+2025-07-31 01:09:02,424 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 01:09:02,424 - TradingSystem - INFO - BTC - 综合评分: 65
+2025-07-31 01:09:02,425 - TradingSystem - INFO - ETH - 综合评分: 62
+2025-07-31 01:09:02,425 - TradingSystem - INFO - AAPL - 综合评分: 62
+2025-07-31 01:09:02,425 - TradingSystem - INFO - SPY - 综合评分: 59
+2025-07-31 01:09:02,426 - TradingSystem - INFO - XAU - 综合评分: 58
+2025-07-31 01:09:02,426 - TradingSystem - INFO - 生成 0 个交易信号
+2025-07-31 01:09:02,429 - TradingSystem - INFO - === 交易周期完成 ===
+
+2025-07-31 01:09:02,429 - apscheduler.executors.default - INFO - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 01:23:59 CEST)" executed successfully
+2025-07-31 01:14:25,153 - TradingSystem - INFO - 系统已安全关闭
+2025-07-31 01:14:25,154 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-31 01:40:50,274 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:40:50,336 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001A117E8D2B0>
+2025-07-31 01:44:39,697 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:44:39,749 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000017E027BD2B0>
+2025-07-31 01:45:18,281 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:45:18,355 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001C1FA69D2B0>
+2025-07-31 01:46:35,929 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:46:36,624 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001BB2173D2B0>
+2025-07-31 01:47:45,817 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:47:46,454 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000198DC30D2B0>
+2025-07-31 01:50:24,592 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 01:50:25,152 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 01:50:25,153 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 01:50:25,158 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 01:50:25,158 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 01:50:25,158 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 01:50:25,160 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-31 01:50:25,160 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-31 01:50:25,160 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-31 01:50:25,160 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-31 01:50:25,161 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-31 01:50:25,161 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 02:05:25,166 - apscheduler.executors.default - INFO - Running job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 02:20:25 CEST)" (scheduled at 2025-07-31 02:05:25.152855+02:00)
+2025-07-31 02:05:25,167 - TradingSystem - INFO - === 开始交易周期 2025-07-31 02:05:25.167068 ===
+2025-07-31 02:05:26,046 - TradingSystem - INFO - 获取到 55 个资产的数据
+2025-07-31 02:05:26,198 - TradingSystem - INFO - 资产分析完成:
+2025-07-31 02:05:26,198 - TradingSystem - INFO - BCH - 综合评分: 82
+2025-07-31 02:05:26,199 - TradingSystem - INFO - APT - 综合评分: 82
+2025-07-31 02:05:26,199 - TradingSystem - INFO - CRV - 综合评分: 82
+2025-07-31 02:05:26,199 - TradingSystem - INFO - NEAR - 综合评分: 81
+2025-07-31 02:05:26,199 - TradingSystem - INFO - ETH - 综合评分: 79
+2025-07-31 02:05:26,200 - TradingSystem - INFO - ADA - 综合评分: 79
+2025-07-31 02:05:26,200 - TradingSystem - INFO - AVAX - 综合评分: 79
+2025-07-31 02:05:26,200 - TradingSystem - INFO - SEI - 综合评分: 79
+2025-07-31 02:05:26,200 - TradingSystem - INFO - TIA - 综合评分: 79
+2025-07-31 02:05:26,200 - TradingSystem - INFO - ENA - 综合评分: 78
+2025-07-31 02:05:26,201 - TradingSystem - INFO - TAO - 综合评分: 78
+2025-07-31 02:05:26,201 - TradingSystem - INFO - PENGU - 综合评分: 78
+2025-07-31 02:05:26,201 - TradingSystem - INFO - JUP - 综合评分: 78
+2025-07-31 02:05:26,201 - TradingSystem - INFO - OP - 综合评分: 78
+2025-07-31 02:05:26,202 - TradingSystem - INFO - HBAR - 综合评分: 77
+2025-07-31 02:05:26,202 - TradingSystem - INFO - LTC - 综合评分: 77
+2025-07-31 02:05:26,202 - TradingSystem - INFO - ETC - 综合评分: 77
+2025-07-31 02:05:26,202 - TradingSystem - INFO - STX - 综合评分: 77
+2025-07-31 02:05:26,202 - TradingSystem - INFO - UNI - 综合评分: 76
+2025-07-31 02:05:26,203 - TradingSystem - INFO - DOT - 综合评分: 76
+2025-07-31 02:05:26,203 - TradingSystem - INFO - XLM - 综合评分: 75
+2025-07-31 02:05:26,203 - TradingSystem - INFO - ARB - 综合评分: 75
+2025-07-31 02:05:26,203 - TradingSystem - INFO - TRUMP - 综合评分: 74
+2025-07-31 02:05:26,203 - TradingSystem - INFO - FIL - 综合评分: 74
+2025-07-31 02:05:26,203 - TradingSystem - INFO - INJ - 综合评分: 74
+2025-07-31 02:05:26,204 - TradingSystem - INFO - USDC - 综合评分: 73
+2025-07-31 02:05:26,204 - TradingSystem - INFO - WBTC - 综合评分: 73
+2025-07-31 02:05:26,204 - TradingSystem - INFO - AAVE - 综合评分: 73
+2025-07-31 02:05:26,204 - TradingSystem - INFO - BONK - 综合评分: 73
+2025-07-31 02:05:26,204 - TradingSystem - INFO - SOL - 综合评分: 72
+2025-07-31 02:05:26,204 - TradingSystem - INFO - PEPE - 综合评分: 72
+2025-07-31 02:05:26,204 - TradingSystem - INFO - ALGO - 综合评分: 72
+2025-07-31 02:05:26,204 - TradingSystem - INFO - FET - 综合评分: 72
+2025-07-31 02:05:26,204 - TradingSystem - INFO - BNB - 综合评分: 71
+2025-07-31 02:05:26,204 - TradingSystem - INFO - TRX - 综合评分: 71
+2025-07-31 02:05:26,204 - TradingSystem - INFO - TON - 综合评分: 71
+2025-07-31 02:05:26,204 - TradingSystem - INFO - VET - 综合评分: 71
+2025-07-31 02:05:26,205 - TradingSystem - INFO - ATOM - 综合评分: 71
+2025-07-31 02:05:26,205 - TradingSystem - INFO - BTC - 综合评分: 70
+2025-07-31 02:05:26,205 - TradingSystem - INFO - ICP - 综合评分: 70
+2025-07-31 02:05:26,205 - TradingSystem - INFO - RENDER - 综合评分: 70
+2025-07-31 02:05:26,205 - TradingSystem - INFO - WLD - 综合评分: 70
+2025-07-31 02:05:26,205 - TradingSystem - INFO - XRP - 综合评分: 69
+2025-07-31 02:05:26,205 - TradingSystem - INFO - SHIB - 综合评分: 69
+2025-07-31 02:05:26,205 - TradingSystem - INFO - ONDO - 综合评分: 69
+2025-07-31 02:05:26,205 - TradingSystem - INFO - LINK - 综合评分: 68
+2025-07-31 02:05:26,205 - TradingSystem - INFO - XMR - 综合评分: 68
+2025-07-31 02:05:26,205 - TradingSystem - INFO - QNT - 综合评分: 68
+2025-07-31 02:05:26,205 - TradingSystem - INFO - DOGE - 综合评分: 67
+2025-07-31 02:05:26,205 - TradingSystem - INFO - SUI - 综合评分: 67
+2025-07-31 02:05:26,206 - TradingSystem - INFO - NEXO - 综合评分: 66
+2025-07-31 02:05:26,206 - TradingSystem - INFO - FDUSD - 综合评分: 66
+2025-07-31 02:05:26,206 - TradingSystem - INFO - POL - 综合评分: 65
+2025-07-31 02:05:26,206 - TradingSystem - INFO - DAI - 综合评分: 64
+2025-07-31 02:05:26,206 - TradingSystem - INFO - USD1 - 综合评分: 64
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 生成 20 个交易信号
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY BCH, 信心度: 82, 价格: 590.4
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY APT, 信心度: 82, 价格: 4.477
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY CRV, 信心度: 82, 价格: 1.0222
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY NEAR, 信心度: 81, 价格: 2.648
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY ETH, 信心度: 79, 价格: 3803.81
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY ADA, 信心度: 79, 价格: 0.7632
+2025-07-31 02:05:26,206 - TradingSystem - INFO - 信号: BUY AVAX, 信心度: 79, 价格: 23.26
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY SEI, 信心度: 79, 价格: 0.3115
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY TIA, 信心度: 79, 价格: 1.779
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY ENA, 信心度: 78, 价格: 0.6015
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY TAO, 信心度: 78, 价格: 371.3
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY PENGU, 信心度: 78, 价格: 0.035114
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY JUP, 信心度: 78, 价格: 0.5179
+2025-07-31 02:05:26,207 - TradingSystem - INFO - 信号: BUY OP, 信心度: 78, 价格: 0.703
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY HBAR, 信心度: 77, 价格: 0.25526
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY LTC, 信心度: 77, 价格: 110.53
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY ETC, 信心度: 77, 价格: 21.35
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY STX, 信心度: 77, 价格: 0.753
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY UNI, 信心度: 76, 价格: 9.972
+2025-07-31 02:05:26,208 - TradingSystem - INFO - 信号: BUY DOT, 信心度: 76, 价格: 3.805
+2025-07-31 02:05:26,210 - apscheduler.executors.default - ERROR - Job "TradingSystem.trading_cycle (trigger: interval[0:15:00], next run at: 2025-07-31 02:20:25 CEST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\aojun\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base.py", line 181, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aojun\OneDrive\Desktop\TradingSystem\trading_system.py", line 899, in trading_cycle
+    await self.execute_signals(trade_signals)
+  File "C:\Users\aojun\OneDrive\Desktop\TradingSystem\trading_system.py", line 970, in execute_signals
+    position_size = self.risk_manager.calculate_position_size(
+        signal["confidence"],
+        volatility
+    )
+  File "C:\Users\aojun\OneDrive\Desktop\TradingSystem\trading_system.py", line 508, in calculate_position_size
+    return min(position_size, Config.MAX_SINGLE_INVESMENT_EUR)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Config' has no attribute 'MAX_SINGLE_INVESMENT_EUR'. Did you mean: 'MAX_SINGLE_INVESTMENT_EUR'?
+2025-07-31 02:06:14,730 - TradingSystem - INFO - 系统已安全关闭
+2025-07-31 02:06:14,731 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-31 02:15:10,225 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 02:15:10,886 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 02:15:10,887 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 02:15:10,891 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 02:15:10,892 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 02:15:10,892 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 02:15:10,893 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-31 02:15:10,894 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-31 02:15:10,894 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-31 02:15:10,894 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-31 02:15:10,895 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-31 02:15:10,895 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 08:52:22,609 - TradingSystem - INFO - === 启动多资产智能交易系统 v3.0 ===
+2025-07-31 08:52:23,308 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 08:52:23,308 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 08:52:23,314 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 08:52:23,314 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 08:52:23,315 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-31 08:52:23,316 - apscheduler.scheduler - INFO - Added job "TradingSystem.trading_cycle" to job store "default"
+2025-07-31 08:52:23,316 - apscheduler.scheduler - INFO - Added job "TradingSystem.health_check" to job store "default"
+2025-07-31 08:52:23,317 - apscheduler.scheduler - INFO - Added job "TradingSystem.morning_report" to job store "default"
+2025-07-31 08:52:23,317 - apscheduler.scheduler - INFO - Added job "TradingSystem.evening_report" to job store "default"
+2025-07-31 08:52:23,317 - apscheduler.scheduler - INFO - Added job "TradingSystem.daily_summary" to job store "default"
+2025-07-31 08:52:23,317 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-31 09:00:00,011 - apscheduler.executors.default - INFO - Running job "TradingSystem.morning_report (trigger: cron[hour='9'], next run at: 2025-08-01 09:00:00 CEST)" (scheduled at 2025-07-31 09:00:00+02:00)
+2025-07-31 09:00:01,911 - TradingSystem - ERROR - Telegram通知失败: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2025-07-31 09:00:01,919 - apscheduler.executors.default - INFO - Job "TradingSystem.morning_report (trigger: cron[hour='9'], next run at: 2025-08-01 09:00:00 CEST)" executed successfully
+2025-07-31 09:02:09,100 - TradingSystem - INFO - 系统已安全关闭
+2025-07-31 09:02:09,101 - apscheduler.scheduler - INFO - Scheduler has been shut down
